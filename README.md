@@ -39,9 +39,9 @@ O projeto foi desenvolvido utilizando os princípios de Orientação a Objetos, 
 <br/>
 
 # Como Executar
-Clone o repositório para sua máquina local.
-Importe o projeto em sua IDE Java de preferência.
-Compile e execute a aplicação.
+- Clone o repositório para sua máquina local.
+- Importe o projeto em sua IDE Java de preferência.
+- Compile e execute a aplicação.
 
 <br/>
 
